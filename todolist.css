@@ -1,0 +1,54 @@
+
+.container{
+width: 360px;
+padding: 33px;
+text-align: center;
+background-color: white;
+margin-left: 33%;
+margin-top: 5px;
+border: 5px dashed purple; 
+    padding: 10px;
+    align-items: center;
+
+ font-family: "Nerko One", cursive;
+ font-weight: 400;
+font-style: normal;
+      
+      
+}
+body{  background-image: url(aesthetic-colorful-pastel-floral-fluid-abstract-background-vector.jpg);
+    background-size: cover ;
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.input{
+    width: 270px;
+    padding: 8px;
+    border: 2px palevioletred;
+    outline: none;
+    font-size: 15px;
+}
+button{
+    width: 50px;
+    height: 31px;
+    background-color: rgb(202, 15, 202);
+    color: black;
+    border-radius: 2px;
+    font-size: 15px;
+ cursor: pointer;
+}
+.text ul{
+    position: relative;
+    background-color: rgb(243, 185, 248);
+    color: black;
+    font-size: 19px;
+    text-align: left;
+    padding: 6px;
+}
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+
+}
