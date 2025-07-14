@@ -15,4 +15,4 @@ A simple, responsive To-Do List app built with HTML, CSS, and JavaScript. Users 
 ## 👩‍💻 Author
 
 *Ankita Dey*  
-[GitHub](https://github.com/Ankita973) • [Portfolio](https://your-portfolio.com)
+[GitHub](https://github.com/Ankita973) 
